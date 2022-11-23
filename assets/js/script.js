@@ -2,9 +2,9 @@
  * @Script js for (Template/Project Name)
  *
  * @project     - Project Name
- * @author      - 
- * @created_by  - 
- * @created_at  - 
+ * @author      - Afzal Patwary
+ * @created_by  - Afzal Patwary
+ * @created_at  - 2021
  * @modified_by -
  */
 
